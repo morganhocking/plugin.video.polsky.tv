@@ -1,3 +1,7 @@
+[B] 1.2.6 [/B]
+New branch by morgan hocking for polsky.tv.
+Stripped out all of the ga stuff because it serves no real purpose except to slow down plugin.  Modified items to make things clearer to the user (added colors in epg, added channel name in epg, changed other things).  
+
 [B]1.2.5[/B]
 Minor tweak of GA account id settings 
 
