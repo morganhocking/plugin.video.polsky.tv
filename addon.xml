@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.polsky.tv"
+       name="Polsky.tv"
+       version="1.2.6"
+       provider-name="Eugene Bond mod HiTower">
+  <requires>
+    <import addon="xbmc.python" version="1.8"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             provides="video"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Polsky.TV</summary>
+    <description>use L:234 P:432 for "demo" of Polsky.tv streaming service - all credits go to Eugene Bond for creating the original (Kartina.tv) plugin.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
